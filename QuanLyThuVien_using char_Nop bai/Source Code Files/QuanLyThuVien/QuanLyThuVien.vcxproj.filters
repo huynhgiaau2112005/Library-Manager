@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Ham">
+      <UniqueIdentifier>{f5e20061-0791-437a-aa93-4763947ec892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ham\Func1 - Quan Li Doc Gia">
+      <UniqueIdentifier>{8204a92d-a0c2-4987-9a3a-718e0b55f982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ham\Func2 - Quan Li Sach">
+      <UniqueIdentifier>{5bc92265-4f4d-4d88-86b6-045dade72201}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ham\Function 3 - Muon Sach">
+      <UniqueIdentifier>{7bc159c5-9c91-4e1f-85fd-43596beb09c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ham\Function 4 - Tra Sach">
+      <UniqueIdentifier>{bc52f64d-5cdc-4d16-b761-670061544331}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ham\Function 5 - Thong Ke">
+      <UniqueIdentifier>{22658b32-79d7-4c6c-89b8-083210ad7249}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrangChu.cpp">
+      <Filter>Source Files\Ham</Filter>
+    </ClCompile>
+    <ClCompile Include="Nhap.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuFunc1.cpp">
+      <Filter>Source Files\Ham\Func1 - Quan Li Doc Gia</Filter>
+    </ClCompile>
+    <ClCompile Include="Func1a.cpp">
+      <Filter>Source Files\Ham\Func1 - Quan Li Doc Gia</Filter>
+    </ClCompile>
+    <ClCompile Include="Func1b.cpp">
+      <Filter>Source Files\Ham\Func1 - Quan Li Doc Gia</Filter>
+    </ClCompile>
+    <ClCompile Include="Func1c.cpp">
+      <Filter>Source Files\Ham\Func1 - Quan Li Doc Gia</Filter>
+    </ClCompile>
+    <ClCompile Include="Func1d.cpp">
+      <Filter>Source Files\Ham\Func1 - Quan Li Doc Gia</Filter>
+    </ClCompile>
+    <ClCompile Include="Func1e.cpp">
+      <Filter>Source Files\Ham\Func1 - Quan Li Doc Gia</Filter>
+    </ClCompile>
+    <ClCompile Include="Func1f.cpp">
+      <Filter>Source Files\Ham\Func1 - Quan Li Doc Gia</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuFunc2.cpp">
+      <Filter>Source Files\Ham\Func2 - Quan Li Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2a.cpp">
+      <Filter>Source Files\Ham\Func2 - Quan Li Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2b.cpp">
+      <Filter>Source Files\Ham\Func2 - Quan Li Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2c.cpp">
+      <Filter>Source Files\Ham\Func2 - Quan Li Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2d.cpp">
+      <Filter>Source Files\Ham\Func2 - Quan Li Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2e.cpp">
+      <Filter>Source Files\Ham\Func2 - Quan Li Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func2f.cpp">
+      <Filter>Source Files\Ham\Func2 - Quan Li Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func3.cpp">
+      <Filter>Source Files\Ham\Function 3 - Muon Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="Func4.cpp">
+      <Filter>Source Files\Ham\Function 4 - Tra Sach</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuFunc5.cpp">
+      <Filter>Source Files\Ham\Function 5 - Thong Ke</Filter>
+    </ClCompile>
+    <ClCompile Include="Func5a.cpp">
+      <Filter>Source Files\Ham\Function 5 - Thong Ke</Filter>
+    </ClCompile>
+    <ClCompile Include="Func5b.cpp">
+      <Filter>Source Files\Ham\Function 5 - Thong Ke</Filter>
+    </ClCompile>
+    <ClCompile Include="Func5c.cpp">
+      <Filter>Source Files\Ham\Function 5 - Thong Ke</Filter>
+    </ClCompile>
+    <ClCompile Include="Func5d.cpp">
+      <Filter>Source Files\Ham\Function 5 - Thong Ke</Filter>
+    </ClCompile>
+    <ClCompile Include="Func5e.cpp">
+      <Filter>Source Files\Ham\Function 5 - Thong Ke</Filter>
+    </ClCompile>
+    <ClCompile Include="Func5f.cpp">
+      <Filter>Source Files\Ham\Function 5 - Thong Ke</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
